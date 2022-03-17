@@ -16,10 +16,7 @@ let ctx = {
     texts: [],
 };
 
-// create moons
-new Moon("fuchsia");
-
-// __INSERT_MOON_HERE__
+// __INSERT_MOONS_HERE__
 
 // Function to setup the scene for our awesome moons :)
 setup();
