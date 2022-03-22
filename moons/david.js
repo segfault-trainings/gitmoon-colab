@@ -1,1 +1,1 @@
-new Moon("pink", "<NAME>")
+new Moon("pink", "<NAME>");
