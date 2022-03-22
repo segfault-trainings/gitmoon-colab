@@ -1,0 +1,1 @@
+new Moon("orange", "Mond 🌚");
