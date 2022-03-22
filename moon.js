@@ -18,7 +18,6 @@ let ctx = {
 
 // __INSERT_MOONS_HERE__
 new Moon("pink", "<NAME>")new Moon("fuchsia", "I am a Moon 🌚");
-new Moon("#f7a3e4", "Pascal's Moon🌛");
 
 // Function to setup the scene for our awesome moons :)
 setup();
