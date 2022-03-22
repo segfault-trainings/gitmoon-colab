@@ -1,0 +1,1 @@
+new Moon("yellow", "yellow");
